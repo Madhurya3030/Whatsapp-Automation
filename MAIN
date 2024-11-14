@@ -1,0 +1,4 @@
+import pywhatkit as madhu
+madhu.sendwhatmsg("Phone number ","Message! ",hour,min)
+
+
